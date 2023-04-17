@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6163c7df-f0e1-4f2c-a4c4-28c8beef4226" name="Changes" comment="" />
+    <list default="true" id="6163c7df-f0e1-4f2c-a4c4-28c8beef4226" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/config/totem.keymap" beforeDir="false" afterPath="$PROJECT_DIR$/config/totem.keymap" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +45,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681671401271</updated>
-      <workItem from="1681671402373" duration="2737000" />
+      <workItem from="1681671402373" duration="3175000" />
     </task>
     <servers />
   </component>
